@@ -1,22 +1,3 @@
-If you find this repository useful, consider giving it a star.
-robotics-design-notes/
-│
-├── README.md
-│
-├── Projects/
-│   └── Line_Follower_Robot/
-│       ├── README.md
-│       ├── Arduino_Code/
-│       │   └── line_follower.ino
-│       │
-│       ├── Circuit_Diagram/
-│       │   └── wiring.txt
-│       │
-│       └── Components/
-│           └── components_list.md
-│
-└── Notes/
-    └── Robotics_Fundamentals.md
 # robotics-design-notes
 A collection of robotics engineering notes, CAD designs, automation projects, Arduino experiments, and learning resources for students and engineers.
 # 🤖 Robotics Design & Automation
